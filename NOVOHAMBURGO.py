@@ -30,7 +30,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 📂 Carregamento do arquivo
-df = pd.read_csv("C:\\Users\\pablo paiva\\Downloads\\novohamburgosS.csv")
+df = pd.read_csv("C:\\Users\\pablo paiva\\PROJETOS\\CÓDIGO\\novohamburgosS.csv")
 
 # 🧮 Funções auxiliares
 def formatar_valor(valor):
