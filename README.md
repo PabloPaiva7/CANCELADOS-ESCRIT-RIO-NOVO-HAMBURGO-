@@ -1,4 +1,4 @@
-LINK PARA VER O APLICATIVO => https://novohamburgocancel.streamlit.app/
+🔗 Acesse o aplicativo aqui → https://novohamburgocancel.streamlit.app/
 
 📊 Dashboard de Quitação de Dívidas - Novo Hamburgo
 🚨 Você sabia que entender o comportamento dos contratos pode revelar gargalos e oportunidades ocultas? Esse dashboard foi desenvolvido justamente para isso: transformar dados em decisões!
