@@ -76,6 +76,7 @@ Ações sugeridas para cada grupo com base em dados reais
 Esse storytelling ajuda não só na análise, mas também na comunicação com os stakeholders e no direcionamento de estratégias futuras. 📌📈
 
 🛠️ Tecnologias Utilizadas
+
 🐍 Python
 
 📊 Pandas
